@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Midnight1938
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning SDL
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me: eminate894567@pm.me
 
