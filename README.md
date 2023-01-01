@@ -54,6 +54,7 @@
         <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnight1938&layout=compact&hide_border=true&theme=rose_pine"/>
         <br>
         <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+        <br>I dont even know how I have that many HTML files
     </details>
   </samp>
 </p>
