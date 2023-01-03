@@ -31,9 +31,9 @@
   <br />
 
   <!-- Contact Me -->
+  <h3 align="center">Contact Me:</h3>
   <p align="center">
     <samp>
-      <h3 align="center">Contact Me:</h3>
       [<a href="https://discordapp.com/users/669905573478924308">discord</a>]
       [<a href="https://matrix.to/#/@midnight.1938:halogen.city">matrix</a>]
       <!-- we cannot change our username on matrix it seems -->
