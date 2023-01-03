@@ -197,10 +197,10 @@
             alt="Top Language"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnight1938&hide=html,c%23&layout=compact&hide_border=true&theme=nord&&langs_count=8"
           />
-        </p>
-        <br />
-        <b>Note:</b> Top languages is only a metric of the languages my public
+          <br />
+          <b>Note:</b> Top languages is only a metric of the languages my public
         code consists of and doesn't reflect experience or skill level.
+        </p>
       </details>
       <details>
         <summary>My Profile Stats</summary>
