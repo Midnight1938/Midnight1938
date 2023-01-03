@@ -46,152 +46,152 @@
 
   <!-- Github Stats -->
   <p align="center">
-    <samp>
-      <h3 align="center">Languages and Tools:</h3>
-      <p align="center">
-        <a
-          href="https://www.gnu.org/software/bash/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-            alt="bash"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://www.cprogramming.com/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-            alt="c"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://www.w3schools.com/cpp/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-            alt="flutter"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://www.adobe.com/in/products/illustrator.html"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-            alt="illustrator"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"
-            alt="jekyll"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-            alt="kubernetes"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-            alt="rust"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a href="https://unity.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-            alt="unity"
-            width="40"
-            height="40"
-          />
-        </a>
-      </p>
-    </samp>
-  </p>
-  <p align="center">
     <samp align="center">
       <details>
         <summary>Most Used Languages</summary>
+        <h3 align="center">Languages and Tools:</h3>
+        <p align="center">
+          <a
+            href="https://www.gnu.org/software/bash/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+              alt="bash"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a
+            href="https://www.cprogramming.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+              alt="c"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a
+            href="https://www.w3schools.com/cpp/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+              alt="cplusplus"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+              alt="docker"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+            <img
+              src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
+              alt="flutter"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+              alt="git"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a
+            href="https://www.adobe.com/in/products/illustrator.html"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+              alt="illustrator"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg"
+              alt="jekyll"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+            <img
+              src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+              alt="kubernetes"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+              alt="linux"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+              alt="mysql"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a
+            href="https://www.photoshop.com/en"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+              alt="photoshop"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+              alt="python"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+              alt="rust"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a href="https://unity.com/" target="_blank" rel="noreferrer">
+            <img
+              src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+              alt="unity"
+              width="40"
+              height="40"
+            />
+          </a>
+        </p>
         <br />
         <p align="center">
           <img
@@ -200,7 +200,7 @@
           />
           <br />
           <b>Note:</b> Top languages is only a metric of the languages my public
-        code consists of and doesn't reflect experience or skill level.
+          code consists of and doesn't reflect experience or skill level.
         </p>
       </details>
       <details>
@@ -222,6 +222,6 @@
 </details>
 
 <!---
-Midnight1938/Midnight1938 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Midnight1938/Midnight1938 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  You can click the Preview link to take a look at your changes.
+  --->
