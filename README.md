@@ -25,13 +25,13 @@
 <br />
 
 <details>
-  <summary></summary>
+  <summary> Learn More</summary>
 
   <h2></h2>
   <br />
 
   <!-- Contact Me -->
-  <h3 align="center">Contact Me:</h3>
+  <h3 align="center">Get in Touch:</h3>
   <p align="center">
     <samp>
       [<a href="https://discordapp.com/users/669905573478924308">discord</a>]
