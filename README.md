@@ -25,13 +25,11 @@
 <br />
 
 <details>
-  <summary> Learn More</summary>
-
-  <h2></h2>
+  <summary><small> 👀 </small></summary>
   <br />
 
   <!-- Contact Me -->
-  <h3 align="center">Get in Touch:</h3>
+  <h3 align="center">Get in Touch</h3>
   <p align="center">
     <samp>
       [<a href="https://discordapp.com/users/669905573478924308">discord</a>]
@@ -52,18 +50,6 @@
         <h3 align="center">Languages and Tools:</h3>
         <p align="center">
           <a
-            href="https://www.gnu.org/software/bash/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-              alt="bash"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a
             href="https://www.cprogramming.com/"
             target="_blank"
             rel="noreferrer"
@@ -71,6 +57,18 @@
             <img
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
               alt="c"
+              width="40"
+              height="40"
+            />
+          </a>
+          <a
+            href="https://www.gnu.org/software/bash/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+              alt="bash"
               width="40"
               height="40"
             />
@@ -155,6 +153,15 @@
               height="40"
             />
           </a>
+          </a>
+          <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+            <img
+              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+              alt="rust"
+              width="40"
+              height="40"
+            />
+          </a>
           <a
             href="https://www.photoshop.com/en"
             target="_blank"
@@ -174,23 +181,14 @@
               width="40"
               height="40"
             />
-          </a>
-          <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-            <img
-              src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
-              alt="rust"
-              width="40"
-              height="40"
-            />
-          </a>
-          <a href="https://unity.com/" target="_blank" rel="noreferrer">
+<!--          <a href="https://unity.com/" target="_blank" rel="noreferrer">
             <img
               src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
               alt="unity"
               width="40"
               height="40"
             />
-          </a>
+          </a> -->
         </p>
         <br />
         <p align="center">
