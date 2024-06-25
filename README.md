@@ -33,7 +33,7 @@
   <p align="center">
     <samp>
       [<a href="https://discordapp.com/users/669905573478924308">discord</a>]
-      [<a href="https://matrix.to/#/@midnight.1938:halogen.city">matrix</a>]
+      [<a href="https://matrix.to/#/@midnight.1938:nope.chat">matrix</a>]
       <!-- we cannot change our username on matrix it seems -->
       [<a href="mailto:eminate894567@proton.me">e-mail</a>]
     </samp>
